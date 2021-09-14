@@ -9,5 +9,7 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 - Create grow and shrink animations
 - Add JavaScript to create the breath animation effect
 
+## Test
 - Update readme!
-- Update readme PR.
+- Update readme PR
+- Add another line
