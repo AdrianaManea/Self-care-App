@@ -10,3 +10,4 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 - Add JavaScript to create the breath animation effect
 
 - Update readme!
+- Update readme PR.
